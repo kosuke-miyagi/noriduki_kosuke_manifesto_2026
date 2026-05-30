@@ -23,5 +23,8 @@
 ## 関連リンク集
 - [X](https://x.com/kochan_0702)
 - [YouTube](https://youtube.com/@ko_channel-0702)
+- [公約スライド資料]()
+- [公約ブラッシュアップ]()
 - [投票フォーム]()
 - [選挙ルール](https://drive.google.com/file/d/16LqrP_o_RenC4eCi40UE6tNE1FIDEU8_/view?usp=sharing)
+- [生徒会HP](https://nnn.ed.jp/attractiveness/extracurricular/seitokai/)
