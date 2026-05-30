@@ -6,23 +6,23 @@
 - 立候補区分：地区代表
 - スローガン：生徒会を楽しもう！
 ### 候補者関連リンク
-- [法月こうすけの呟きを見る。](https://x.com/kochan_0702)
-- [公約や演説の様子を動画で見る。](https://youtube.com/@ko_channel-0702)
-- [公約のスライド資料を見る。]()
-- [公約ブラッシュアップに参加する。]()
+- [法月こうすけの呟きを見る](https://x.com/kochan_0702)
+- [公約や演説の様子を動画で見る](https://youtube.com/@ko_channel-0702)
+- [公約のスライド資料を見る]()
+- [公約ブラッシュアップに参加する]()
 
 　
 ## 選挙概要
 - 選挙期間：2026年5月29日（金）〜2026年7月24日（金）
-  - [選挙ルールを確認する。](https://drive.google.com/file/d/16LqrP_o_RenC4eCi40UE6tNE1FIDEU8_/view?usp=sharing)
+  - [選挙ルールを確認する](https://drive.google.com/file/d/16LqrP_o_RenC4eCi40UE6tNE1FIDEU8_/view?usp=sharing)
 - 告示：2026年6月29日（月）
 - 選挙運動・投票期間：2026年6月29日（月）〜2026年7月23日（木）17:00
-  - [投票する。]()
-  - [N高グループ生徒会の過去の活動を見る。](https://nnn.ed.jp/attractiveness/extracurricular/seitokai/)
+  - [投票する]()
+  - [N高グループ生徒会の過去の活動を見る](https://nnn.ed.jp/attractiveness/extracurricular/seitokai/)
 - 開票・結果発表：2026年7月24日（金）
 
 　
-## 選挙活動ケジュール（予定）
+## 選挙活動スケジュール（予定）
 ### 公約リリース
 |No.|公約バージョン|リリース予定日|ステータス|
 |:---|:---|:---|:---|
