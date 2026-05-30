@@ -24,7 +24,7 @@
 - 法月こうすけの活動の様子は[こちら](https://x.com/kochan_0702)から。
 - 法月こうすけの公約や演説の様子を動画で見るには[こちら](https://youtube.com/@ko_channel-0702)から。
 - 法月こうすけの公約のスライド資料は[こちら]()から。
-- [公約ブラッシュアップ]()
-- 投票は[こちら]()から
-- [選挙ルール](https://drive.google.com/file/d/16LqrP_o_RenC4eCi40UE6tNE1FIDEU8_/view?usp=sharing)
-- [生徒会HP](https://nnn.ed.jp/attractiveness/extracurricular/seitokai/)
+- 公約ブラッシュアップへの参加は[こちら]()から。
+- 投票は[こちら]()から。
+- 選挙ルールの確認は[こちら](https://drive.google.com/file/d/16LqrP_o_RenC4eCi40UE6tNE1FIDEU8_/view?usp=sharing)から。
+- N高グループ生徒会の過去の活動の様子は[こちら](https://nnn.ed.jp/attractiveness/extracurricular/seitokai/)から。
