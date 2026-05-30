@@ -5,10 +5,20 @@
 - 立候補地区：中部地区
 - 立候補区分：地区代表
 - スローガン：生徒会を楽しもう！
+- 法月こうすけの呟きは[こちら](https://x.com/kochan_0702)から。
+- 法月こうすけの公約や演説の様子を動画で見るには[こちら](https://youtube.com/@ko_channel-0702)から。
+- 法月こうすけの公約のスライド資料は[こちら]()から。
+- 公約ブラッシュアップへの参加は[こちら]()から。
 
 　
 ## 選挙概要
-
+- 選挙期間：2026年5月29日（金）〜2026年7月24日（金）
+  - 選挙ルールの確認は[こちら](https://drive.google.com/file/d/16LqrP_o_RenC4eCi40UE6tNE1FIDEU8_/view?usp=sharing)から。
+- 告示：2026年6月29日（月）
+- 選挙運動・投票期間：2026年6月29日（月）〜2026年7月23日（木）17:00
+  - 投票は[こちら]()から。
+  - N高グループ生徒会の過去の活動の様子は[こちら](https://nnn.ed.jp/attractiveness/extracurricular/seitokai/)から。
+- 開票・結果発表：2026年7月24日（金）
 
 　
 ## 公約リリーススケジュール（予定）
@@ -21,10 +31,6 @@
 
 　
 ## 関連リンク集
-- 法月こうすけの呟きは[こちら](https://x.com/kochan_0702)から。
-- 法月こうすけの公約や演説の様子を動画で見るには[こちら](https://youtube.com/@ko_channel-0702)から。
-- 法月こうすけの公約のスライド資料は[こちら]()から。
-- 公約ブラッシュアップへの参加は[こちら]()から。
 - 投票は[こちら]()から。
 - 選挙ルールの確認は[こちら](https://drive.google.com/file/d/16LqrP_o_RenC4eCi40UE6tNE1FIDEU8_/view?usp=sharing)から。
 - N高グループ生徒会の過去の活動の様子は[こちら](https://nnn.ed.jp/attractiveness/extracurricular/seitokai/)から。
