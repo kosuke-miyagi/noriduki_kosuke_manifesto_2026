@@ -31,6 +31,3 @@
 
 　
 ## 関連リンク集
-- 投票は[こちら]()から。
-- 選挙ルールの確認は[こちら](https://drive.google.com/file/d/16LqrP_o_RenC4eCi40UE6tNE1FIDEU8_/view?usp=sharing)から。
-- N高グループ生徒会の過去の活動の様子は[こちら](https://nnn.ed.jp/attractiveness/extracurricular/seitokai/)から。
