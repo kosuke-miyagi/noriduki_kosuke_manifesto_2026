@@ -14,6 +14,7 @@
 - [法月こうすけの呟きを見る](https://x.com/kochan_0702)
 - [公約や演説の様子を動画で見る](https://www.youtube.com/playlist?list=PLVIM0rc0G8gPPL0934qkE3lULqfYqZ-Ge)
 - [公約ブラッシュアップに参加する](https://s13nnfw513bk334ukwttcu1i.163.44.125.210.sslip.io/view/README.md)
+- [リンク集](https://lit.link/kosuke_noriduki)
 
 　
 ## 選挙概要
