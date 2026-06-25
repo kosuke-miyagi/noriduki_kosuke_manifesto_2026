@@ -12,7 +12,7 @@
 - スローガン：生徒会を楽しもう！
 ### 候補者関連リンク
 - [法月こうすけの呟きを見る](https://x.com/kochan_0702)
-- [公約や演説の様子を動画で見る]([https://youtube.com/@ko_channel-0702](https://www.youtube.com/playlist?list=PLVIM0rc0G8gPPL0934qkE3lULqfYqZ-Ge))
+- [公約や演説の様子を動画で見る](https://www.youtube.com/playlist?list=PLVIM0rc0G8gPPL0934qkE3lULqfYqZ-Ge)
 - [公約のスライド資料を見る]()
 - [公約ブラッシュアップに参加する]()
 
