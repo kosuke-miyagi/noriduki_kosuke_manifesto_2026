@@ -23,7 +23,7 @@
 - 選挙運動・投票期間：2026年6月29日（月）〜2026年7月23日（木）17:00
   - [立候補者を見る](https://seitokai.kdg-nnn.support/district/chubu/)
   - [投票する](https://docs.google.com/forms/u/6/d/e/1FAIpQLSdK27N8gsmhFVX-s-OB8TpupP1U5Ilt2ZpHjY8V9hvDhq2tAQ/viewform?pli=1&authuser=6)
-  - [N高グループ生徒会の過去の活動を見る](https://nnn.ed.jp/attractiveness/extracurricular/seitokai/)
+  - [N高グループ生徒会を知る](https://nnn.ed.jp/attractiveness/extracurricular/seitokai/)
 - 開票・結果発表：2026年7月24日（金）
 
 ※投票方法・投票期間・選挙ルールについては、必ず学園からの公式案内を確認してください。
